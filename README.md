@@ -4,4 +4,4 @@
 
 本项目基于yolov5，部署通过TensorRT加速，帧率可达200FPS
 
-![1636190694996](https://github.com/Doctor-James/Mask_Detector/blob/master/demo.gif)
+![image](https://github.com/Doctor-James/Mask_Detector/blob/master/demo.gif)
